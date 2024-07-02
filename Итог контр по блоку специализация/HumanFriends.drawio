@@ -1,0 +1,66 @@
+<mxfile host="app.diagrams.net" modified="2024-07-01T18:35:43.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="bSDiprsRZZQ35M_I4gNf" version="24.6.4" type="device">
+  <diagram name="Страница — 1" id="LutygCplM30NmIIAQQVK">
+    <mxGraphModel dx="2090" dy="930" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qI_3CwV1I-qW461CW6hM-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="qI_3CwV1I-qW461CW6hM-2" target="qI_3CwV1I-qW461CW6hM-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4" y="23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qI_3CwV1I-qW461CW6hM-2" value="Pack animals" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="7" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI_3CwV1I-qW461CW6hM-4" value="Dogs" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-324" y="208" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI_3CwV1I-qW461CW6hM-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="qI_3CwV1I-qW461CW6hM-6" target="qI_3CwV1I-qW461CW6hM-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI_3CwV1I-qW461CW6hM-6" value="Pets" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-330" y="75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI_3CwV1I-qW461CW6hM-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="qI_3CwV1I-qW461CW6hM-9" target="qI_3CwV1I-qW461CW6hM-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI_3CwV1I-qW461CW6hM-9" value="Cats" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-172" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI_3CwV1I-qW461CW6hM-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="qI_3CwV1I-qW461CW6hM-11" target="qI_3CwV1I-qW461CW6hM-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI_3CwV1I-qW461CW6hM-11" value="Humsters" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-456" y="171" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI_3CwV1I-qW461CW6hM-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="qI_3CwV1I-qW461CW6hM-15" target="qI_3CwV1I-qW461CW6hM-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI_3CwV1I-qW461CW6hM-15" value="Horse" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="4" y="208.00000610351563" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI_3CwV1I-qW461CW6hM-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="qI_3CwV1I-qW461CW6hM-16" target="qI_3CwV1I-qW461CW6hM-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI_3CwV1I-qW461CW6hM-16" value="Camels" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-135.99993896484375" y="251.00005493164062" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI_3CwV1I-qW461CW6hM-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="qI_3CwV1I-qW461CW6hM-19" target="qI_3CwV1I-qW461CW6hM-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI_3CwV1I-qW461CW6hM-19" value="donkeys" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="131.00003662109376" y="263" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qI_3CwV1I-qW461CW6hM-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.613;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="qI_3CwV1I-qW461CW6hM-4" target="qI_3CwV1I-qW461CW6hM-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qI_3CwV1I-qW461CW6hM-28" value="HumanFriends" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="-153" y="-154" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qI_3CwV1I-qW461CW6hM-30" value="id&lt;br&gt;name&lt;br&gt;date_of_birth&lt;br&gt;commands" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-101" y="-95" width="111" height="89" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
