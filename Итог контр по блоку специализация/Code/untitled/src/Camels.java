@@ -4,10 +4,7 @@ public class Camels extends PackAnimals{
         super(name, birthdate);
     }
 
-    @Override
-    public void command() {
 
-    }
 
     @Override
     public String getType() {

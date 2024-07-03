@@ -5,10 +5,7 @@ public class Hamsters extends Pets {
         super(name, birthdate);
     }
 
-    @Override
-    public void command() {
 
-    }
 
     @Override
     public String getType() {

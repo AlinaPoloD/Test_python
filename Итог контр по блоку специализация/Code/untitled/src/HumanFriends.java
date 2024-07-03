@@ -1,5 +1,7 @@
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+import java.util.Set;
 
 public abstract class HumanFriends {
 
@@ -9,7 +11,7 @@ public abstract class HumanFriends {
     protected String birthdate;
 
     private static int sumCounter = 0;
-    private List<String> commands;
+      private List<Command> commands;
 
 
     public HumanFriends(String name, String birthdate) {
@@ -17,12 +19,14 @@ public abstract class HumanFriends {
         id = ++counter;
         this.name = name;
         this.birthdate =birthdate;
-        this.commands.add("спать");
+        this.commands = new ArrayList<>();
+        this.commands.add(Command.SLIP);
 
     }
 
-    public abstract void command();
-
+    public List<Command> getCommands() {
+        return commands;
+    }
 
     public String getName() {
         return name;
@@ -40,8 +44,24 @@ public abstract class HumanFriends {
         return sumCounter;
     }
 
-    public void setCommands(String command) {
+   public void addCommand(Command command) {
         commands.add(command);
+
+
+    }
+    public int getBirthYear() {
+        return Integer.parseInt(birthdate.substring(0, 4));
+    }
+
+
+    @Override
+    public String toString() {
+        return "\nЖивотное: " +
+                "id=" + id +
+                ", Имя='" + name + '\'' +
+                ", Дата рождения='" + birthdate + '\'' +
+                ", команды=" + commands +
+                ", относится к классу=" + getType();
     }
 }
 

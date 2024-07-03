@@ -5,10 +5,10 @@ public abstract class PackAnimals extends HumanFriends {
     public PackAnimals(String name, String birthdate) {
         super(name, birthdate);
         sumCounter++;
-        this.setCommands("бежать");
     }
 
     public static int getSumCounter() {
         return sumCounter;
     }
+
 }
